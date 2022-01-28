@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 현재 프론트 개발자이고 백앤드 개발자로 전향하고 싶어 공부하고 있는 kevinJuni 입니다!
+
+
+#### 현재 git프로필 업데이트 작업 및 토이프로젝트 작업 중 입니다... (이직 준비를 위하여... 화이팅!)
 
 <!--
 **kevinJuni/kevinJuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinJuni&layout=compact&theme=tokyonight)
 
